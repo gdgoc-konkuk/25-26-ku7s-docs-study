@@ -33,5 +33,5 @@ Pod가 오작동하고 비정상적인 양의 리소스를 사용할 때 파드�
   - nodefs.available: 디스크 공간 부족
   - pid.available: 사용 가능한 PID가 거의 다 찼을 때
 - 정책
-  - Soft Eviction Policy: 일정 시간 지속될 떄 pod 축출
+  - Soft Eviction Policy: 일정 시간 지속될 때 pod 축출
   - Hard Eviction Policy: 즉시 pod 축출
